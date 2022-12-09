@@ -1,0 +1,7 @@
+node_modules
+coverage
+.env
+authapi-webserver.pem
+new_user_credentials.csv
+package-lock.json
+config/database/test.json
